@@ -6,4 +6,7 @@ It contains : 1. a Nios-ll Classic Processor + On-chip RAM
               
 Function : Toggles / shift a 1 (logic 1) and left to right and reverse forever
 
+Author : Ahmed Asim Ghouri 
+Email : asimghr@gmail.com
+
 
